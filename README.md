@@ -1,1 +1,1 @@
-This is my repository for learning Data Science courses
+This is my repository for learning Data Science courses.
